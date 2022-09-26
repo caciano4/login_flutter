@@ -1,6 +1,7 @@
 # login_flutter - day -1
 
-A new Flutter project.
+This is just a template,
+a page of login maked using dart - flutter
 
 ## Getting Started
 
